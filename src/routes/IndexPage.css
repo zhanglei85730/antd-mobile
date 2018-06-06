@@ -1,0 +1,9 @@
+.subTitle {
+  color: #888;
+  font-size: 14px;
+  padding: 15px 0 9px 15px;
+}
+.notSquareGrid .amGridIcon {
+  width: 40px;
+  height: 60px;
+}
